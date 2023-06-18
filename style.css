@@ -60,7 +60,7 @@ input{
 }
 ::-webkit-input-placeholder {
     color:black;
-    font-weight:550;
+    font-weight:200;
 }
 button{
     border:black;
